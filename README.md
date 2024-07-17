@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VickyJMa
-- 👀 I’m interested in Data Science, Machine Learning, NLP, Anomaly Detection and Data Visulization..
-- 💞️ I’m looking to collaborate on Machine Leaning Projects
-- 📫 How to reach me.. linkedin dm
+- 👀 I’m interested in Business Analysis, Data Science, Machine Learning, Anomaly Detection, and Data Visulization..
+- 💞️ I’m looking to collaborate on Machine learning projects..
+- 📫 How to reach me.. LinkedIn dm
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I do yoga and theater performance
 

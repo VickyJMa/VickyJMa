@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VickyJMa
 - 👀 I’m interested in Data Science, Machine Learning, NLP, Anomaly Detection and Data Visulization..
-- 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on Machine Leaning Projects
 - 📫 How to reach me.. linkedin dm
 - 😄 Pronouns: She/Her
